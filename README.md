@@ -1,1 +1,1 @@
-[medium.com/@htayyar](https://medium.com/@htayyar)
+![badge](netscape.gif)
